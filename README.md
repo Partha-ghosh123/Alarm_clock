@@ -11,7 +11,6 @@ This project allows users to set an alarm and get notified when the selected tim
 
 - Set alarm time (hours & minutes)
 - Displays current time in real-time
-- Alert when alarm time is reached
 - Simple and user-friendly UI
 - Fully responsive design
 
