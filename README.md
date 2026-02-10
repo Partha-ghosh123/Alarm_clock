@@ -46,13 +46,6 @@ This project allows users to set an alarm and get notified when the selected tim
 
 ---
 
-## 📸 Screenshots
-
-_Add screenshots of your project here (optional)_
-
-
----
-
 ## 👨‍💻 Author
 
 **Partha Ghosh**  
